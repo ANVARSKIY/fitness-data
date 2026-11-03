@@ -65,11 +65,17 @@
    "pdf": "data/inbody/2026-10-29_inbody_result.pdf"
   }
  ],
- "wk": {},
+ "wk": {
+  "W3A": {
+   "goblet": {
+    "done": false
+   }
+  }
+ },
  "water": {
   "2026-10-20": 250,
   "2026-10-22": 1000
  },
  "shop": {},
- "updatedAt": "2026-10-30T09:17:26.267Z"
+ "updatedAt": "2026-11-03T22:30:53.268Z"
 }
