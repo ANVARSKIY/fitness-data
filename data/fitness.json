@@ -76,6 +76,10 @@
   "2026-10-20": 250,
   "2026-10-22": 1000
  },
- "shop": {},
- "updatedAt": "2026-11-03T22:30:53.268Z"
+ "shop": {
+  "3_bulgur": false,
+  "3_buckwheat": false,
+  "3_pasta": false
+ },
+ "updatedAt": "2026-11-03T22:31:42.820Z"
 }
