@@ -81,7 +81,9 @@
  "shop": {
   "3_bulgur": false,
   "3_buckwheat": false,
-  "3_pasta": false
+  "3_pasta": false,
+  "6_bulgur": true,
+  "6_buckwheat": true
  },
- "updatedAt": "2026-11-10T10:20:20.141Z"
+ "updatedAt": "2026-11-25T18:05:49.427Z"
 }
